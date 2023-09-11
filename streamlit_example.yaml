@@ -1,0 +1,13 @@
+credentials:
+  usernames:
+    billcaiy:
+      email: your_email@company.com
+      name: Demo
+      password: hashed_password # To be replaced with hashed password, check out https://github.com/mkhorasani/Streamlit-Authenticator
+cookie:
+  expiry_days: 30
+  key: random_signature_key # Must be string
+  name: random_cookie_name
+preauthorized:
+  emails:
+  - your_email@company.com

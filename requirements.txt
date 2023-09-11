@@ -1,0 +1,7 @@
+langchain
+scikit-learn
+matplotlib
+streamlit
+streamlit-authenticator
+tabulate
+pandas
